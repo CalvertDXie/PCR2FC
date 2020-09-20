@@ -1,7 +1,3 @@
----
-title: README
-date: 2020-09-20 11:32
----
 # PCR Results: From CT to Fold Change
 ## File Format
 1. CSV formatted table
