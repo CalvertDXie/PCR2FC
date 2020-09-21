@@ -182,7 +182,7 @@ server <- function(input, output, session) {
     }
   })
 
-  # Prediction results table
+  # Results table
   output$fc <- renderDataTable({
     if (input$submitButton > 0) {
       isolate(run())
